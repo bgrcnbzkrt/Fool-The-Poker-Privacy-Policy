@@ -1,2 +1,11 @@
 # Fool-The-Poker-Privacy-Policy
-Privacy policy of the game Fool The Poker
+Fool The Poker does not collect, store, or share any personal data.
+
+• No user accounts
+• No analytics
+• No third-party tracking
+• No ads
+• No purchases
+
+The game operates fully offline and only stores local game progress on your device.
+If you have any questions, contact us at: bgrcnbzkrt@gmail.com
