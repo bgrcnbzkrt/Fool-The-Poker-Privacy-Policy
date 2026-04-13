@@ -4,7 +4,6 @@ Fool The Poker does not collect, store, or share any personal data.
 • No user accounts
 • No analytics
 • No third-party tracking
-• No ads
 • No purchases
 
 The game operates fully offline and only stores local game progress on your device.
